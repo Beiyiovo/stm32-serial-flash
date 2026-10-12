@@ -1,0 +1,9 @@
+# STM32 串口 ISP 一键烧录工具 的依赖
+#
+#     pip install -r requirements.txt
+#
+# pyserial     —— 串口通信，用来做 0x7F 握手和串口占用检测
+# stm32loader  —— 实际的烧录动作（以 python -m stm32loader 方式调用）
+
+pyserial>=3.5
+stm32loader>=0.7.1

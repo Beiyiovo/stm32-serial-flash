@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Keil 构建产物
+Objects/
+Listings/
+DebugConfig/
+*.o
+*.axf
+*.hex
+*.bin
+*.elf
+*.map
+*.lst
+*.crf
+*.dep
+*.lnp
+*.iex
+*.sct
+*.uvguix.*
+*.uvoptx
+build_log.txt
+_build_log.txt
+
+# 编辑器
+.vscode/
+.idea/
+*.bak
+Thumbs.db
+desktop.ini
