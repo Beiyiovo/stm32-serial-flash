@@ -21,6 +21,16 @@ USB-TTL 一根线两用：烧录用它，看打印也用它。烧完关掉烧录
 
 ---
 
+## 直接下载
+
+不想装 git 的话，下这个包，解压后双击 `flash.bat`：
+
+**[stm32-serial-flash-v1.0.0.zip](https://github.com/Beiyiovo/stm32-serial-flash/releases/download/v1.0.0/stm32-serial-flash-v1.0.0.zip)** · 16 KB · 脚本 + 两个 bat + 依赖清单 + README
+
+唯一前提：装了 Python 3.8 以上，安装时勾了 `Add Python to PATH`。
+
+---
+
 ## 30 秒上手
 
 ```bash

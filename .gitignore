@@ -31,3 +31,5 @@ _build_log.txt
 *.bak
 Thumbs.db
 desktop.ini
+promo/
+_dist/
